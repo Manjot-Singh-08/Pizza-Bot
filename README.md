@@ -1,5 +1,5 @@
 # Pizza-Bot
-This project is a chat bot for ordering pizzas! This innovative platform aims to simplify the pizza ordering process by collecting essential details from customers. By incorporating features such as phone number, address, email ID, pizza size, and toppings, the chat bot offers a comprehensive ordering experience.
+This project is a chat bot for ordering pizzas! This innovative platform aims to simplify the pizza ordering process by collecting essential details from customers. By incorporating features such as phone number, address, email ID, pizza size, toppings etc. the chat bot offers a comprehensive ordering experience.
 
 Through interactive conversations, the chat bot engages with users in a user-friendly manner, ensuring a smooth and convenient pizza ordering experience. It starts by gathering necessary contact information such as the customer's phone number, allowing for efficient communication throughout the order fulfillment process. Additionally, it collects the customer's address to facilitate accurate and timely delivery.
 
